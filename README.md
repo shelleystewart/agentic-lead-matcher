@@ -5,15 +5,7 @@ https://github.com/user-attachments/assets/693765c8-aaf8-4491-a149-c04ebd966603
 
 Custom Multi-Agent Video Demo
 
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/c5f50660-56aa-4063-b912-cb023aa2621c
 
 Local, multi-agent real estate lead qualifier using Streamlit and Llama 3.2 via Ollama to prove how a brokerage's inventory management and copywriting workflows can be safely automated.
 # Local Real Estate Agentic Workflow (Powered by Ollama)
