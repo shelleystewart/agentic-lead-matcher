@@ -1,5 +1,9 @@
 # agentic-lead-matcher
-[Watch the 120-Second Video Demo Here] (https://notebooklm.google.com/notebook/ae954388-2acd-4453-81d7-668a7099f094/artifact/8aa88cc3-df9e-4a4f-aa68-78dc4436db1e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)
+[Watch the 120-Second Video Demo Here] 
+
+https://github.com/user-attachments/assets/693765c8-aaf8-4491-a149-c04ebd966603
+
+
 Local, multi-agent real estate lead qualifier using Streamlit and Llama 3.2 via Ollama to prove how a brokerage's inventory management and copywriting workflows can be safely automated.
 # Local Real Estate Agentic Workflow (Powered by Ollama)
 
